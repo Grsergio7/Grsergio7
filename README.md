@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Grsergio7
-- 👀 I’m interested in becoming a Developer or Devops Engineer
-- 🌱 I’m currently learning APIs
+- 👋 Oi, I’m Sergio
+- 👀 I’m interested in improving as a Software Engineer
+- 🌱 I’m currently learning OOP and ReactJS
 - 💞️ I’m looking to collaborate on Any type of project
 - 📫 How to reach me grsergio07@icloud.com
 
