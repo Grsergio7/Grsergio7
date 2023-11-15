@@ -1,6 +1,6 @@
 - 👋 Oi, I’m Sergio
-- 👀 I’m interested in improving as a Software Engineer
-- 🌱 I’m currently learning OOP and ReactJS
+- 👀 I’m interested in becoming a Front-End Developer
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Any type of project
 - 📫 How to reach me grsergio07@icloud.com
 
